@@ -1,4 +1,4 @@
-- 👋 Hi, I’m HANSOL YOOO
+- 👋 Hi, I’m HANSOL YOO
 - 👀 I’m interested in HTML, CSS, JS
 - 🌱 I’m currently learning Github,,
 - 📫 yhansol145@gmail.com
