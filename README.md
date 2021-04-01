@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Github,,
 - yhansol145@gmail.com
 - github.com/yhansol145
-- https://www.notion.so/Java-d8eb6f6c67304bb2bc13590c0d1b494c
+- https://www.notion.so/Hansol-YOO-f02fdab402984aae8ea4d41d3558c210
 
 
 <!---
