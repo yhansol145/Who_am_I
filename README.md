@@ -9,5 +9,5 @@ https://www.notion.so/Hansol-YOO-f02fdab402984aae8ea4d41d3558c210
 
 <!---
 yhansol145/yhansol145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes....
 --->
