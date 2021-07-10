@@ -3,7 +3,7 @@ yhansol145@naver.com
 
 github.com/yhansol145
 
-https://www.notion.so/Hansol-YOO-f02fdab402984aae8ea4d41d3558c2101
+https://www.notion.so/Hansol-YOO-f02fdab402984aae8ea4d41d3558c210
 
 
 
